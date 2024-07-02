@@ -1,0 +1,5 @@
+boto3>=0
+datetime>=0
+os>=0
+json>=0
+requests>=0
